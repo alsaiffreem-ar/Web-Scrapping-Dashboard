@@ -39,4 +39,4 @@ Original scraped dataset: products.csv
 Cleaned dataset used in the dashboard: cleaned_products.csv
 
 Screenshots
-![Dashboard Screenshot](Webscrapping_Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
